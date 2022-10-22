@@ -3,10 +3,12 @@ System.map
 abi.prop
 abi.xml
 abi_symbollist
+abi_symbollist.report
 dtb.img
 initramfs.img
 kernel-headers.tar.gz
 kernel-uapi-headers.tar.gz
 ramdisk.gz
+test_mappings.zip
 unstripped_modules.tar.gz
 vmlinux
